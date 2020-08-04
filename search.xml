@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>resume</title>
+      <link href="/2020/08/04/resume/"/>
+      <url>/2020/08/04/resume/</url>
+      
+        <content type="html"><![CDATA[<h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul><li>王震/男/1994/3年工作经验</li><li>期望职位：Java开发工程师</li><li>期望薪资：16k</li></ul><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>手机：18813152280</li><li>Email：<a href="mailto:&#119;&#x7a;&#95;&#51;&#x34;&#56;&#56;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#x6d;">&#119;&#x7a;&#95;&#51;&#x34;&#56;&#56;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#x6d;</a> </li></ul><h1 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h1><ul><li>JavaWeb开发：SpringBoot/Spring MVC/Mybatis/Hibernate</li><li>分布式框架: Dubbo/Zookeeper/Spring Cloud</li><li>前端框架：Bootstrap/Vue/Layui</li><li>数据库相关：MySQL/Oracle</li><li>缓存技术: Redis/EhCache</li><li>服务器相关: Nginx/Tomcat/Resin</li><li>版本管理 文档 自动化部署工具：Svn/Git/Maven/Jenkins/Swagger</li><li>云和开放平台：ECS/RDS/微信开放平台/微信应用开发/蚂蚁开发平台</li></ul><h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h2 id="北京九都佳德科技有限公司（2019年11月-至今）"><a href="#北京九都佳德科技有限公司（2019年11月-至今）" class="headerlink" title="北京九都佳德科技有限公司（2019年11月 ~ 至今）"></a>北京九都佳德科技有限公司（2019年11月 ~ 至今）</h2><h3 id="真实世界研究系统-SpringBoot-Spring-Mybatis-MySQL-Git-Jenkins"><a href="#真实世界研究系统-SpringBoot-Spring-Mybatis-MySQL-Git-Jenkins" class="headerlink" title="真实世界研究系统  (SpringBoot + Spring + Mybatis + MySQL + Git + Jenkins)"></a>真实世界研究系统  (SpringBoot + Spring + Mybatis + MySQL + Git + Jenkins)</h3><p>(基于国家级课题报告,并与北京广安门医院深度沟通需求开发完成的项目.为医院和医生提供课题管理, 受试者管理, 自定义信息采集模板,受试者病历信息采集,数据审核,数据复查,质疑处理,日志管理等功能模块)</p><ul><li>负责用户角色权限系统模块开发.</li><li>负责药品数据库模块开发.</li><li>负责中心数据库模块开发.</li><li>负责 移动端小程序 授权登录,授权手机号,支付等功能模块开发.</li><li>负责 服务号 模板消息推送,SMS 短信推送开发.</li><li>负责 Excel ,PDF等文件报表导出.</li></ul><h2 id="北京合众和达商贸有限公司（2018年11月-2019年11月）"><a href="#北京合众和达商贸有限公司（2018年11月-2019年11月）" class="headerlink" title="北京合众和达商贸有限公司（2018年11月 ~ 2019年11月）"></a>北京合众和达商贸有限公司（2018年11月 ~ 2019年11月）</h2><h3 id="跨境熊商城-SpringBoot-Spring-Mybatis-MySQL-Git-Jenkins"><a href="#跨境熊商城-SpringBoot-Spring-Mybatis-MySQL-Git-Jenkins" class="headerlink" title="跨境熊商城 (SpringBoot + Spring + Mybatis + MySQL + Git + Jenkins)"></a>跨境熊商城 (SpringBoot + Spring + Mybatis + MySQL + Git + Jenkins)</h3><p>基于公司自身方向发展规划开发完成的自营商城系统</p><ul><li>使用 Maven 构建模块化工程以及 Git分支管理,版本控制</li><li>接入微信小程序,服务号第三方授权登录,微信支付等微信开放 api.</li><li>负责 购物车模块,订单模块,用户模块功能开发.</li><li>负责 SKU,SPU数据表设计及功能开发.</li><li>负责 统计并分支PU,VU数据.</li></ul><h2 id="北京启点车联科技有限公司（2017年12月-2018年12月）"><a href="#北京启点车联科技有限公司（2017年12月-2018年12月）" class="headerlink" title="北京启点车联科技有限公司（2017年12月 ~ 2018年12月）"></a>北京启点车联科技有限公司（2017年12月 ~ 2018年12月）</h2><h3 id="智慧ETC-SpringBoot-Spring-Mybatis-MySQL-Tomcat-Git"><a href="#智慧ETC-SpringBoot-Spring-Mybatis-MySQL-Tomcat-Git" class="headerlink" title="智慧ETC (SpringBoot + Spring + Mybatis + MySQL + Tomcat +Git)"></a>智慧ETC (SpringBoot + Spring + Mybatis + MySQL + Tomcat +Git)</h3><p>智慧ETC app是一款关于便捷出行的软件，提供先通行后付款的服务，轻松在线申请ECT，不需要绑卡，而且还能提提供行车记录，违章查询以及拍照挪车等服务！</p><ul><li><p>接入微信小程序,服务号第三方授权登录,微信支付等微信开放 api.</p></li><li><p>负责 ETC在线办理功能开发</p></li><li><p>负责 用户拉新推广模块功能开发</p></li><li><p>负责 与银行科技部技术对接开发及联调.</p></li><li><p>负责 与高速ETC发行方进行对接开发及联调.</p><h2 id="苏格拉底-北京-科技有限公司（2017年1月-2017年12月）"><a href="#苏格拉底-北京-科技有限公司（2017年1月-2017年12月）" class="headerlink" title="苏格拉底(北京)科技有限公司（2017年1月 ~ 2017年12月）"></a>苏格拉底(北京)科技有限公司（2017年1月 ~ 2017年12月）</h2></li></ul><h3 id="王者CP-Dubbox-Zookeeper-SpringMVC-Spring-Mybatis-MySQL-Resin-Git"><a href="#王者CP-Dubbox-Zookeeper-SpringMVC-Spring-Mybatis-MySQL-Resin-Git" class="headerlink" title="王者CP (Dubbox + Zookeeper + SpringMVC + Spring + Mybatis + MySQL + Resin + Git )"></a>王者CP (Dubbox + Zookeeper + SpringMVC + Spring + Mybatis + MySQL + Resin + Git )</h3><p>王者CP 是一款专为王者荣耀玩家们打造的一款聊天开黑类应用</p><ul><li>负责抓取游戏相关资料并序列化入库.</li><li>负责段位模块,虚拟用户模块功能开发.</li><li>负责提供OPS可视化看板实时用户数量趋势图数据接口</li><li>负责撰写CrapApi相关接口文档</li><li>负责OPS用户列表数据导出</li></ul><h3 id="有才有财-Dubbox-Zookeeper-SpringMVC-Spring-Mybatis-MySQL-Resin-Git"><a href="#有才有财-Dubbox-Zookeeper-SpringMVC-Spring-Mybatis-MySQL-Resin-Git" class="headerlink" title="有才有财 (Dubbox + Zookeeper + SpringMVC + Spring + Mybatis + MySQL + Resin + Git )"></a>有才有财 (Dubbox + Zookeeper + SpringMVC + Spring + Mybatis + MySQL + Resin + Git )</h3><p>有才有财是一个知识分享问答社交平台，用户在平台上可以分享自己的知识、经验、技能等，同时，也可以在不同的话题版块下进行提问，具备相关知识的用户会对问题进行解答，优质的答案或知识会得到奖励。</p><ul><li>负责基础模块的增删改查</li><li>负责贴子点赞模块功能开发</li><li>负责用户信息编辑功能开发</li><li>负责后台管理系统图表模块功能开发</li><li>负责与移动端对接联调,并及时解决发生的问题</li><li>负责相关技术文档撰写</li></ul><hr><h1 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h1><p>感谢您花时间阅读我的简历，期待能有机会和您共事。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>“我的第一篇博客”</title>
+      <link href="/2020/08/04/wo-de-di-yi-pian-bo-ke/"/>
+      <url>/2020/08/04/wo-de-di-yi-pian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/08/04/hello-world/"/>
+      <url>/2020/08/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
